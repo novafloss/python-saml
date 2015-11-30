@@ -1,5 +1,8 @@
 # python-saml changelog
 
+### 2.1.5+1 (Nov 30, 2015)
+* [#85](https://github.com/onelogin/python-saml/pull/85) Support Responses that don't have AttributeStatements
+
 ### 2.1.5 (Nov 3, 2015)
 * [#86](https://github.com/onelogin/python-saml/pull/86) Make idp settings optional (Usefull when validating SP metadata)
 * [#79](https://github.com/onelogin/python-saml/pull/79) Remove unnecesary dependence. M2crypto is not used.

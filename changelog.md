@@ -1,5 +1,22 @@
 # python-saml changelog
 
+### 2.1.5+2 (Feb 15, 2016)
+* [#116](https://github.com/onelogin/python-saml/pull/116) Allow custom valid_sign method
+* [#114](https://github.com/onelogin/python-saml/pull/114) Compare Assertion InResponseTo if not None
+* [#113](https://github.com/onelogin/python-saml/pull/113) Get/Validate assertion when empty signature ref URI
+* [#103](https://github.com/onelogin/python-saml/issues/103) ALOWED Misspell
+* [#106](https://github.com/onelogin/python-saml/issues/106) Make Request ids accesible
+* Improve how we obtain the settings path
+* Teamcity stuff
+* Update README.md
+* Update badges
+* Update docs adding reference to test depencence installation
+* Fix Organization element on SP metadata
+
+### 2.1.5+1 (Nov 30, 2015)
+* Support Responses that don't have AttributeStatements
+* The changelog should not reference java-saml
+
 ### 2.1.5 (Nov 3, 2015)
 * [#86](https://github.com/onelogin/python-saml/pull/86) Make idp settings optional (Usefull when validating SP metadata)
 * [#79](https://github.com/onelogin/python-saml/pull/79) Remove unnecesary dependence. M2crypto is not used.

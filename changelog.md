@@ -1,5 +1,10 @@
 # python-saml changelog
 
+### 2.1.6+1 (Feb 16, 2016)
+* [#116](https://github.com/onelogin/python-saml/pull/116) Allow custom valid_sign method
+* [#114](https://github.com/onelogin/python-saml/pull/114) Compare Assertion InResponseTo if not None
+* [#113](https://github.com/onelogin/python-saml/pull/113) Get/Validate assertion when empty signature ref URI
+
 ### 2.1.6 (Feb 15, 2016)
 * Prevent signature wrapping attack!!
 * [#111](https://github.com/onelogin/python-saml/pull/111) Add support for nested `NameID` children inside `AttributeValue`s

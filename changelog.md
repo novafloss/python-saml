@@ -2,6 +2,7 @@
 
 ### 2.2.2+1 (Not released)
 * Allow custom valid_sign method
+* Get assertion when response signature reference URI is empty
 
 ### 2.2.2 (May 18, 2017)
 * Be able to relax SSL Certificate verification when retrieving idp metadata

@@ -1,4 +1,8 @@
 # python-saml changelog
+
+### 2.4.0+1 (unreleased)
+* Get assertion when signature reference URI is empty
+
 ### 2.4.0 (Feb 27, 2018)
 * Fix vulnerability [CVE-2017-11427](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-11427). Process text of nodes properly, ignoring comments
 * Improve how fingerprint is calcultated

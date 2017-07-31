@@ -1,4 +1,7 @@
 # python-saml changelog
+### 2.4.2+1 (unreleased)
+* Get assertion when signature reference URI is empty
+
 ### 2.4.2 (Sep 05, 2018)
 * Update dm.xmlsec.binding dependency to 1.3.7
 * Update pylint dependency to 1.9.1

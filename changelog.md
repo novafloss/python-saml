@@ -6,6 +6,7 @@
 * Reset errorReason attribute of the auth object before each Process method
 * Fix issue on getting multiple certs when only sign or encryption certs
 * Allow empty nameid if setting wantNameId is false. Only raise Exceptions when strict mode is enabled
+* Get assertion when signature reference URI is empty
 
 ### 2.2.3 (Jun 15, 2017)
 * Replace some etree.tostring calls, that were introduced recfently,  by the sanitized call provided by defusedxml

@@ -3,6 +3,7 @@
 * Get NameID when element decrypted twice
 * Allow empty NameID if setting wantNameId is false
 * Allow custom valid_sign method
+* Get assertion when signature reference URI is empty
 
 ### 2.2.3 (Jun 15, 2017)
 * Replace some etree.tostring calls, that were introduced recfently,  by the sanitized call provided by defusedxml

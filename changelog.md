@@ -1,5 +1,5 @@
 # python-saml changelog
-### 2.2.4 (unreleased)
+### 2.2.4+2 (Aug 01, 2017)
 * Get NameID when element decrypted twice
 * Allow empty NameID if setting wantNameId is false
 * Allow custom valid_sign method

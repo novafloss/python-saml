@@ -1,4 +1,7 @@
 # python-saml changelog
+### 2.3.0+2 (unreleased)
+* Allow custom valid_sign method
+
 ### 2.3.0+1 (Oct 02, 2017)
 * Allow empty nameid if setting wantNameId is false. Only raise Exceptions when strict mode is enabled
 * Get assertion when signature reference URI is empty

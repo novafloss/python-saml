@@ -1,5 +1,5 @@
 # python-saml changelog
-### 2.3.0+2 (unreleased)
+### 2.3.0+2 (Nov 23, 2017)
 * Allow custom valid_sign method
 
 ### 2.3.0+1 (Oct 02, 2017)
